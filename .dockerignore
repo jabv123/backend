@@ -8,7 +8,6 @@ dist
 coverage
 *.md
 test
-Dockerfile.TODO
 npm-debug.log
 Dockerfile.TODO
 
